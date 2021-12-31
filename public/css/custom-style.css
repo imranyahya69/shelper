@@ -1,0 +1,93 @@
+/* menu hover link */
+
+.nav-item a:hover {
+    color: #00A544;
+}
+
+.nav-item a:focus{
+    color: #00A544;
+}
+.nav-item a:active{
+    color: #00A544;
+
+}
+
+
+
+.edit-input{
+    display: flex;
+    justify-content: space-between;
+}
+
+/* question and answer page */
+
+.qa-section{
+    margin-bottom: 30px;
+}
+
+.qa-section b{
+color: #00A544;
+}
+
+.inner-container{
+    border: solid #dee0e1 1px;
+    padding: 60px;
+}
+.answer-section{
+    padding: 20px;
+
+}
+
+
+.intro{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+
+}
+
+
+.name-about{
+    flex-flow: column;
+    display: flex;
+}
+
+.name{
+  font-size: 20px;  
+  font-weight: 500;
+
+}
+
+.name-date{
+    margin-left: 20px;
+}
+
+.date{
+    font-size: 12px;
+
+}
+
+.button{
+    margin-left: 15px;
+
+}
+
+/* solution hide page */
+
+.box{
+    margin-top: -350px;
+    margin-left: 300px;
+    position: relative;
+    border: 2px solid #b6b7b8c4;
+    height: 200px;
+    width: 400px;
+    margin-bottom: 300px;
+    background: white;
+    border-radius: 20px;
+ }
+     
+
+.comment-like, .comment-dislike, .comment-text{
+    border: none;
+    background-color: white;
+}
