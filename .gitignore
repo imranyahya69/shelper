@@ -7,6 +7,7 @@
 node_modules/
 vendor/
 dist/
+/vendor
 /storage/*.key
 storage/
 # Compiled Java class files
